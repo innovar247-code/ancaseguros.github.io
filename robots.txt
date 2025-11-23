@@ -1,0 +1,8 @@
+# robots.txt para ANCA Seguros
+# Permite que todos los buscadores indexen el sitio
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ancaseguros.github.io/sitemap.xml
